@@ -4,7 +4,6 @@
 
 You might have worked with version control software in the past, or this might be your first rodeo. Either way, we're going to teach you enough about `git` to be dangerous.
 
-![dangerous](http://i.giphy.com/UlzvY53VQpn0c.gif)
 
 This brief overview covers the concepts of cloning, forking, committing, and updating.
 
